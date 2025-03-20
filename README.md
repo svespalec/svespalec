@@ -1,1 +1,1 @@
-![Profile views](https://komarev.com/ghpvc/?username=svespalec&style=flat-square&color=grey)
+![Profile views](https://komarev.com/ghpvc/?username=svespalec&style=flat-square&color=blue)
