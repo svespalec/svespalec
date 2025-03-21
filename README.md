@@ -6,6 +6,8 @@ I'm a results-driven backend engineer specializing in advanced system security a
 ### 🛠 Projects 
 - **[Empress](https://github.com/svespalec/Empress):** A single header memory protection/anti-debug library
 - **[Rate Limiter](https://github.com/svespalec/springboot-ratelimiter):** A lightweight IP-based rate limiting library for Spring Boot applications
+- **[FastAPI-Template](https://github.com/svespalec/FastAPI-Enterprise-Template):** A robust, scalable foundation for an enterprise FastAPI project.
+- **[NexusShield](https://github.com/svespalec/NexusShield):** An AI-powered malware detection service
 - **[And more](https://github.com/svespalec?tab=repositories)**
 ---
 
