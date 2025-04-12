@@ -1,4 +1,4 @@
-# Hello, I'm Samuel Vespalec :wave:
+# Hello, I'm Samuel! :wave:
 I'm a results-driven backend engineer specializing in advanced system security and backend development.
 
 ---
