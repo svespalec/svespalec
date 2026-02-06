@@ -1,2 +1,2 @@
-# Samuel V.
-Security engineer focused on anticheat development, game security and Windows internals.
+# Samuel Vespalec
+Security Engineer focused on anticheat development, game security and Windows internals.
