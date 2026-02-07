@@ -1,2 +1,2 @@
 # Samuel Vespalec
-Security Engineer focused on anticheat development, game security and Windows internals.
+Security researcher and C++ developer specializing in anti-cheat systems and Windows internals.
