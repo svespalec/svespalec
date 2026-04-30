@@ -12,5 +12,5 @@ security engineer focused on windows internals, anti-cheat, reverse engineering,
 
 **work:**
 
-- [TowerOfFlaws](https://github.com/svespalec/TowerOfFlaws) - tower of fantasy anti-cheat driver exploit research
-- [faultline](https://github.com/svespalec/Faultline) - usermode thread hijacking detection via working set page fault monitoring
+- [tower-of-flaws](https://github.com/svespalec/tower-of-flaws) - tower of fantasy anti-cheat driver exploit research
+- [faultline](https://github.com/svespalec/faultline) - usermode thread hijacking detection via working set page fault monitoring
